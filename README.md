@@ -1,5 +1,5 @@
 # Android-apks
-Android apks with bugs 
+Android apks with bugs but Linux app do not have bugs 
 ```bash
 Open Redirect bug payload
 XSS bug payload
